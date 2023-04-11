@@ -1,0 +1,12 @@
+.Product_Card{
+    /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;   */
+    width: 500px;
+    margin-left: 100px;
+}
+
+.Product_button_div{
+    margin-top: 10px;
+    text-align: center;
+    padding-left: 20px;
+    transform: scale(1.2);
+}

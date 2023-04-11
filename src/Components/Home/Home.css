@@ -1,0 +1,20 @@
+.Home_main_card{
+    margin-top: 10px;
+    width: 250px;
+    text-align: center;
+    border-radius: 20px;
+    margin-left: 60px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.Home_main_div{
+    color:black;
+}
+.Home_watch_image{
+    width: 200px;
+    border-radius: 10px;
+    height: 170px;
+}
+
+.Home_main_div:hover img{
+    transform: scale(1.2);
+}
