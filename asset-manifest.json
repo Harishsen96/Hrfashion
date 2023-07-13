@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f862037c.css",
+    "main.js": "/static/js/main.56b8503c.js",
+    "static/js/787.09eb19e7.chunk.js": "/static/js/787.09eb19e7.chunk.js",
+    "static/media/Watch2.jpg": "/static/media/Watch2.b8b042e5934a9256fce2.jpg",
+    "index.html": "/index.html",
+    "main.f862037c.css.map": "/static/css/main.f862037c.css.map",
+    "main.56b8503c.js.map": "/static/js/main.56b8503c.js.map",
+    "787.09eb19e7.chunk.js.map": "/static/js/787.09eb19e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f862037c.css",
+    "static/js/main.56b8503c.js"
+  ]
+}
